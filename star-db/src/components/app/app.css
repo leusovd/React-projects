@@ -1,0 +1,7 @@
+.toggle-random-planet {
+    margin: 0 0 2rem;
+}
+
+.app-content .row:not(:last-child) {
+    margin-bottom: 20px;
+}
